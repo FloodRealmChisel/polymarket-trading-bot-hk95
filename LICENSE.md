@@ -1,4 +1,4 @@
-# 
+# professional Polymarket Module | custom-strategies + prediction-market-scanning is the best Polymarket module, featuring custom-strategies and prediction-market-scanning. Smart,
 
 
 
